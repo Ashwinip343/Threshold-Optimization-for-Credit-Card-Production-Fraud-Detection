@@ -18,9 +18,9 @@
 ## 🚀 Quick Start
 ```bash
 # Clone & setup
-git clone https://github.com/yourusername/fraud-detection.git
-cd fraud-detection
-pip install -r requirements.txt
+git clone https://github.com/Ashwinip343/Threshold-Optimization-for-Credit-Card-Production-Fraud-Detection.git
+cd Threshold-Optimization-for-Credit-Card-Production-Fraud-Detection
+
 
 # Download dataset from Kaggle:
 # https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
