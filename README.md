@@ -26,5 +26,4 @@ cd Threshold-Optimization-for-Credit-Card-Production-Fraud-Detection
 # https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 # Save as data/creditcard.csv
 
-# Run analysis
-python src/fraud_detection.py
+
