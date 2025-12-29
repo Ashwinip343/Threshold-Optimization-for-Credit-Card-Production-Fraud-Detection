@@ -15,6 +15,10 @@
 - **Performance**: 82.4% recall, 205 alerts/100K, 69.3% precision
 - **Business Impact**: $51,950 savings per 85,443 transactions
 
+## Full Report
+Detailed analysis, methodology, and implementation: [report.pdf](report.pdf)
+
+
 ## Quick Start
 ```bash
 # Clone & setup
