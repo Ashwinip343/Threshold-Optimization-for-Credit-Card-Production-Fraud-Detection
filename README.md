@@ -1,6 +1,6 @@
-# Credit Card Fraud Detection: Threshold Optimization Framework
+## Threshold-Optimization-for-Credit-Card-Production-Fraud-Detection
 
-## Quick Results
+### Results
 | Model | Recall | Precision | Alerts/100K | Net Savings | ROI |
 |-------|--------|-----------|-------------|-------------|-----|
 | Logistic Regression | 85.8% | 3.4% | 4,365 | -$123K | -66% |
@@ -10,16 +10,15 @@
 ### Key Insight: Efficiency vs Effectiveness Trade-off
 **Random Forest** has higher ROI (713% vs 688%) but **XGBoost** catches more frauds. For every 6 extra investigations, XGBoost prevents 6 more frauds - a **10:1 return on incremental investment**.
 
-## Production Recommendation
+### Production Recommendation
 - **Model**: XGBoost with threshold **0.30**
 - **Performance**: 82.4% recall, 205 alerts/100K, 69.3% precision
 - **Business Impact**: $51,950 savings per 85,443 transactions
 
-## Full Report
+### Full Report
 Detailed analysis, methodology, and implementation: [Report.pdf](Report.pdf)
 
-
-## Quick Start
+### Quick Start
 ```bash
 # Clone & setup
 git clone https://github.com/Ashwinip343/Threshold-Optimization-for-Credit-Card-Production-Fraud-Detection.git
