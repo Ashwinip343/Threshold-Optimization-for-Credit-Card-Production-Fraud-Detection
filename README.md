@@ -16,7 +16,7 @@
 - **Business Impact**: $51,950 savings per 85,443 transactions
 
 ## Full Report
-Detailed analysis, methodology, and implementation: [report.pdf](report.pdf)
+Detailed analysis, methodology, and implementation: [Report.pdf](Report.pdf)
 
 
 ## Quick Start
